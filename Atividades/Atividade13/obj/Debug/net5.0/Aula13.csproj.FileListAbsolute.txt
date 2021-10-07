@@ -1,0 +1,16 @@
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\bin\Debug\net5.0\Aula13.exe
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\bin\Debug\net5.0\Aula13.deps.json
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\bin\Debug\net5.0\Aula13.runtimeconfig.json
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\bin\Debug\net5.0\Aula13.runtimeconfig.dev.json
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\bin\Debug\net5.0\Aula13.dll
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\bin\Debug\net5.0\ref\Aula13.dll
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\bin\Debug\net5.0\Aula13.pdb
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\obj\Debug\net5.0\Aula13.csproj.AssemblyReference.cache
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\obj\Debug\net5.0\Aula13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\obj\Debug\net5.0\Aula13.AssemblyInfoInputs.cache
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\obj\Debug\net5.0\Aula13.AssemblyInfo.cs
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\obj\Debug\net5.0\Aula13.csproj.CoreCompileInputs.cache
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\obj\Debug\net5.0\Aula13.dll
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\obj\Debug\net5.0\ref\Aula13.dll
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\obj\Debug\net5.0\Aula13.pdb
+C:\Users\55119\Documents\Visual Studio 2019\Códigos\LP3\Aula13\Aula13\obj\Debug\net5.0\Aula13.genruntimeconfig.cache
